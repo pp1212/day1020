@@ -1,6 +1,6 @@
 package com.sist.exam04;
 
-public class StringBuffetDelete {
+public class StringBufferDelete {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
